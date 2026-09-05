@@ -1,0 +1,8 @@
+C:\Users\rahul kumar yadav\Desktop\springboot\Week1(Product Management Api)\backend\src\main\java\com\example\backend\BackendApplication.java
+C:\Users\rahul kumar yadav\Desktop\springboot\Week1(Product Management Api)\backend\src\main\java\com\example\backend\controller\ProductController.java
+C:\Users\rahul kumar yadav\Desktop\springboot\Week1(Product Management Api)\backend\src\main\java\com\example\backend\dto\ProductRequest.java
+C:\Users\rahul kumar yadav\Desktop\springboot\Week1(Product Management Api)\backend\src\main\java\com\example\backend\dto\ProductResponse.java
+C:\Users\rahul kumar yadav\Desktop\springboot\Week1(Product Management Api)\backend\src\main\java\com\example\backend\exception\GlobalExceptionHandler.java
+C:\Users\rahul kumar yadav\Desktop\springboot\Week1(Product Management Api)\backend\src\main\java\com\example\backend\model\Product.java
+C:\Users\rahul kumar yadav\Desktop\springboot\Week1(Product Management Api)\backend\src\main\java\com\example\backend\repository\ProductRepository.java
+C:\Users\rahul kumar yadav\Desktop\springboot\Week1(Product Management Api)\backend\src\main\java\com\example\backend\service\ProductService.java
